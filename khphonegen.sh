@@ -23,7 +23,7 @@ show_help() {
     cat << EOF
 Usage: $(basename "$0") [OPTIONS]
 
-High-speed Cambodian Mobile Number Wordlist Generator in Bash.
+Khmer Mobile Number Wordlist Generator in Bash.
 
 Options:
   -c, --carrier CARRIER   Target operator: smart, cellcard, metfone, qb, cooltel, seatel, all (default: all)
